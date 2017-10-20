@@ -1,0 +1,2 @@
+<en>Hello, World!</en>
+<fr>Bonjour, le Monde!</fr>
